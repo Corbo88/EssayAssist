@@ -1,2 +1,1 @@
 # EssayAssist
-Corbin Huntington
